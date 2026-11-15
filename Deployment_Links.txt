@@ -1,3 +1,4 @@
 Public portal: https://careertrack-job-portal.vercel.app/
 Backend API: https://careertrack-api.onrender.com/api
 Admin login:  https://careertrack-job-portal.vercel.app/admin/login
+Demo admin credentials: shared in the submission email only.
